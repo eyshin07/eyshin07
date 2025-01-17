@@ -28,5 +28,5 @@ Seoul Digital University is a 4-year open university in South Korea, designed fo
 
 ## 📫 **Let’s Connect!**
 - **Email**: [eyshin05@gmail.com](mailto:eyshin05@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/eyshin05)
+- **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/eyshin05)
 
