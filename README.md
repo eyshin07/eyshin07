@@ -1,4 +1,4 @@
-# 🎂 Respect Diversity, but the Cake is a Lie!
+# 🎂 Respect Diversity, and the Cake is not a Lie!
 
 I’m a passionate learner exploring the world of **Data Science** and **MLOps**.  
 Currently studying **Creative Writing** and **Detective Studies** as a dual major at [Seoul Digital University](https://www.sdu.ac.kr). 🕵️✍️  
